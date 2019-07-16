@@ -2,6 +2,9 @@
 
 The purpose of this tool is to Act like "MySQL Server" Without Installing MySQL Server, And return a row with the query values.
 
+## Inspired by
+https://github.com/Gifts/Rogue-MySql-Server
+
 ## Getting Started
 
 ```
