@@ -1,4 +1,6 @@
 #!/bin/python3
+# author: Diefunction
+# inspired by: https://github.com/Gifts/Rogue-MySql-Server
 
 import asyncore
 import socket 
