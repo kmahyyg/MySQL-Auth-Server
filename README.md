@@ -9,6 +9,7 @@ git clone http://github.com/diefunction/MySQL-Auth-Server.git
 ```
 
 ### Examples
+in case MySQL Server is installed and running do
 ```
 service mysql stop
 pkill -9 mysql
