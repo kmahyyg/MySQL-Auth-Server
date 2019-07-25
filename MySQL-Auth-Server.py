@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/env python3
 # author: Diefunction
 # inspired by: https://github.com/Gifts/Rogue-MySql-Server
 
